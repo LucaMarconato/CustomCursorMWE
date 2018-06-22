@@ -12,7 +12,6 @@
 		FA28F27D20DC16EF00480949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA28F27C20DC16EF00480949 /* Assets.xcassets */; };
 		FA28F28020DC16EF00480949 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA28F27E20DC16EF00480949 /* Main.storyboard */; };
 		FA28F28A20DC174900480949 /* CursorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA28F28920DC174900480949 /* CursorView.swift */; };
-		FA66DC0B20DD6700004562EE /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = FA66DC0A20DD6700004562EE /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +23,6 @@
 		FA28F28120DC16EF00480949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA28F28220DC16EF00480949 /* customCursorMWE.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = customCursorMWE.entitlements; sourceTree = "<group>"; };
 		FA28F28920DC174900480949 /* CursorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursorView.swift; sourceTree = "<group>"; };
-		FA66DC0A20DD6700004562EE /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				FA28F27E20DC16EF00480949 /* Main.storyboard */,
 				FA28F28120DC16EF00480949 /* Info.plist */,
 				FA28F28220DC16EF00480949 /* customCursorMWE.entitlements */,
-				FA66DC0A20DD6700004562EE /* Readme.md */,
 			);
 			path = customCursorMWE;
 			sourceTree = "<group>";
@@ -129,7 +126,6 @@
 			files = (
 				FA28F27D20DC16EF00480949 /* Assets.xcassets in Resources */,
 				FA28F28020DC16EF00480949 /* Main.storyboard in Resources */,
-				FA66DC0B20DD6700004562EE /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
