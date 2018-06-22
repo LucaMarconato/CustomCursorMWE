@@ -6,4 +6,4 @@ When a custom cursor is set, after a while (from 0 to 20 seconds) the cursor get
 I am currently using macOS 10.13.4, but the first time I wrote a code similar to this I had macOS 10.12 and the problem was still there.
 
 In this 20 seconds GIF you can see that the green cursor is automatically replaced by an arrow (after approximately 10 seconds), and the same for the crosshair cursor.
-![GIF file showing the cursor changing on his own after about 10 seconds](customCursor.git)
+![GIF file showing the cursor changing on his own after about 10 seconds](customCursor.gif)
