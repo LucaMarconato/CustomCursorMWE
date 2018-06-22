@@ -31,7 +31,7 @@ class ViewController: NSViewController, NSWindowDelegate {
         return
     }
     @IBAction func greenPressed(_ sender: Any) {
-        cursorView.setCursor(withName: "highligheter_green")
+        cursorView.setCursor(withName: "highlighter_green")
     }
     @IBAction func crosshairPressed(_ sender: Any) {
         cursorView.setCursor(withName: "selection")
